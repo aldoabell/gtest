@@ -15,3 +15,5 @@ var auto = {
     clasico : true,
     anio : 1965
 }
+
+var texto = 'Cadena de texto';
