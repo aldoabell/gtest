@@ -16,4 +16,5 @@ var auto = {
     anio : 1965
 }
 
-var texto = 'Cadena de texto' ;
+var texto = 'Cadena de texto';
+console.log(typeof(texto));
